@@ -2,3 +2,5 @@ lion   orange
 tiger   blue
 leopard  red
 turtle   black
+NEW ANIMAL
+
